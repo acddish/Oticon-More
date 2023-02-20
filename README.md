@@ -1,7 +1,6 @@
 # Oticon-More
 Oticon More Recordings
 
-# MoreA1
 
 .wav file names:
 Subject Name_Spondee Track_Room Condition_HA coupling Condition_Microphone type_File type_Speaker location_Date stamp_channel number
@@ -63,7 +62,7 @@ Channels
   Could record in Manikin and probe mics at the same time
   
 
-Oticon More Hearing aid Settings
+# Oticon More Hearing aid Settings
 
 Note - Two sets of Hearing aids were fit in Bellingham, WA to a hearing loss of 25 sloping to 40 dB. Although hearing aids were switched from open domes to occluded domes, both sets of hearing aids were fit in the Oticon software indicating "open bass domes, general, VAC+".
 
@@ -80,7 +79,7 @@ MoreB3    Balanced          Balanced            2dB                           8d
 MoreB4    Balanced          Balanced            2dB                           8dB                       Neural adapt (all cond marked as difficult)
 
 
-Noise Conditions
+# Noise Conditions
 
 N1 = Restaraunt noise at -150deg, track 5 from a Widex noise cd from Doug Sladen
 N2 = Babble noise at 150deg, List 9 from AzBIo
@@ -88,8 +87,11 @@ N3 = Both noises at the same time
 
 Noises were played using a seperate 2 channel system and played continuously while the spondees were presented from -75 to 75 degrees (left to right each run)
 
-Intensity Levels
+# Intensity Levels
   In anechoic condition, spondees presented at 55 dB, rest noise at 50 dB, babble at 50 dB. Thus, in quiet +5dB SNR
+
+# Link to word doc detailing HA settings
+Since the table above is mostly unreadable
 [Oticon More Hearing Aid Program Settings.docx](https://github.com/acddish/MoreA1/files/10787004/Oticon.More.Hearing.Aid.Program.Settings.docx)
 
 
